@@ -1,0 +1,17 @@
+{
+  "python": "3.12.14",
+  "numpy": "2.3.5",
+  "highspy": "1.15.1",
+  "matplotlib": "3.11.2",
+  "seed": 10128,
+  "solver_options": {
+    "threads": 1,
+    "presolve": "on",
+    "random_seed": 10128,
+    "time_limit": 120,
+    "primal_feasibility_tolerance": 1e-08,
+    "dual_feasibility_tolerance": 1e-08,
+    "mip_feasibility_tolerance": 1e-08,
+    "mip_rel_gap": 0.0
+  }
+}

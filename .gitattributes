@@ -1,0 +1,14 @@
+* text=auto
+*.py text eol=lf
+*.md text eol=lf
+*.json text eol=lf
+*.txt text eol=lf
+*.csv text eol=lf
+*.log text eol=lf
+*.lp text eol=lf
+*.pdf binary
+*.png binary
+
+# Preserve whitespace emitted by the solver in its raw log and model dumps.
+*.log -whitespace
+*.lp -whitespace

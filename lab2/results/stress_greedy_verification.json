@@ -1,0 +1,20 @@
+{
+  "tolerance": 1e-07,
+  "feasible": true,
+  "max_violation": 0.0,
+  "recomputed_objective": 25566.399999999998,
+  "solver_objective": 25566.399999999998,
+  "objective_error": 0.0,
+  "objective_ok": true,
+  "transport_cost": 8501.0,
+  "penalty_cost": 17065.399999999998,
+  "total_deficit": 169.79999999999995,
+  "deficit": [
+    38.599999999999994,
+    4.0,
+    63.0,
+    0.0,
+    30.799999999999997,
+    33.39999999999999
+  ]
+}

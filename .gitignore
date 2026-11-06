@@ -1,0 +1,26 @@
+# Локальные окружения и кэш Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Настройки IDE и файлы ОС
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Локальная конфигурация
+.env
+.env.*
+!.env.example
+
+# Логи солвера и результаты входят в обязательный комплект сдачи
+!**/results/*.log
+!**/results/*.lp
+!**/results/*.csv
+!**/results/*.json
+!**/results/*.png

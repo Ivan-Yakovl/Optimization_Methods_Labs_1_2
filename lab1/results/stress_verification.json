@@ -1,0 +1,23 @@
+{
+  "tolerance": 1e-07,
+  "feasible": true,
+  "max_violation": 7.105427357601002e-15,
+  "recomputed_objective": 80.96499999999999,
+  "solver_objective": 80.96499999999999,
+  "objective_error": 0.0,
+  "objective_ok": true,
+  "used_sheets": [
+    0.0,
+    4.799999999999997,
+    6.399999999999997,
+    19.308333333333337
+  ],
+  "produced": [
+    34.0,
+    31.0,
+    41.0,
+    45.0,
+    40.99999999999999
+  ],
+  "geometry_valid": true
+}

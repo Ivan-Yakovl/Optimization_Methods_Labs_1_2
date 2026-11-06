@@ -1,0 +1,62 @@
+{
+  "seed": 10128,
+  "items": [
+    {
+      "id": "P1",
+      "width": 500,
+      "height": 500,
+      "demand": 34
+    },
+    {
+      "id": "P2",
+      "width": 600,
+      "height": 500,
+      "demand": 31
+    },
+    {
+      "id": "P3",
+      "width": 750,
+      "height": 500,
+      "demand": 41
+    },
+    {
+      "id": "P4",
+      "width": 500,
+      "height": 750,
+      "demand": 45
+    },
+    {
+      "id": "P5",
+      "width": 600,
+      "height": 1000,
+      "demand": 41
+    }
+  ],
+  "stocks": [
+    {
+      "id": "S1",
+      "width": 1000,
+      "height": 1500,
+      "available": 9
+    },
+    {
+      "id": "S2",
+      "width": 1200,
+      "height": 1500,
+      "available": 8
+    },
+    {
+      "id": "S3",
+      "width": 1500,
+      "height": 1500,
+      "available": 8
+    },
+    {
+      "id": "S4",
+      "width": 1500,
+      "height": 2000,
+      "available": 40.01
+    }
+  ],
+  "generation": "numpy.default_rng(10128); demand integers [25,46); geometry and stock fixed"
+}
